@@ -1,0 +1,10 @@
+A ; C
+A 1 A
+A 0 B
+B 1 A
+B 0 C
+C 0 C
+C 1 C
+test: 1001
+test: 10
+test: lambda

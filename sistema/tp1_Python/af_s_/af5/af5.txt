@@ -1,0 +1,9 @@
+A ; 
+A 0 A
+A 1 A
+test: 0
+test: 00
+test: 101
+test: 1011
+test: 00110
+test: lambda

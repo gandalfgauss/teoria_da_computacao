@@ -1,0 +1,13 @@
+A ; C
+A 0 A
+A 1 A
+A 0 B
+B 0 C
+test: 0
+test: 1
+test: 10
+test: 100
+test: 101
+test: 101100
+test: 1011000
+test: lambda

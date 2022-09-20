@@ -1,0 +1,14 @@
+P ; I
+P 0 I
+P 1 I
+I 0 P
+I 1 P
+test: 0
+test: 1
+test: 01
+test: 10
+test: 101
+test: 010
+test: 111
+test: 1111
+test: 1110
